@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Living Mirrors in our world
+title: What are Living Mirrors?
 ---
 
 We all know mirrors very well from our daily life. Most of us own at least one at home, but even if some don't, there's plenty of them in the city as you are walking down your way through streets and glassy buildings. Even in nature you may come across calm water surface reflecting an image of your face back into your eyes.
@@ -13,7 +13,7 @@ It might seem like I'm talking about the Mirror of Erised from Harry Potter, but
 
 Can you recall someone who's made you angry recently? Let's name him Bob. What was going on that time? Bob probably did or said something irritating or plain wrong and unacceptable. In the worst case he kept doing it for so long that you were completely mad at him. And of course rightfully! Who would accept such an unacceptable behavior? However, who exactly is making you angry? … That probably seems like a pointless question. Bob of course! He'd better learn and not do it next time, cause he's really getting on your nerves, … but … does he?
 
-![_config.yml]({{ site.baseurl }}/images/Living-Mirrors.jpg)
+![Living Mirrors]({{ site.baseurl }}/images/Living-Mirrors.jpg)
 
 Let's go back to our well known ordinary mirrors for a moment. If you really dislike something about your appearance and you stare into mirror, you may get mad at yourself, because you don't want to look the way the mirror is showing you. However, you know you are mad at yourself, not the mirror. Yes, there are cases somebody breaks the mirror into pieces as a result of their anger, but it's still obvious to us that it's actually not the mirror that made us angry, isn't it?
 
