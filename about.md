@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Miro. I'm from Slovakia.
 
-### More Information
+I am human being who love composing music, taking photos with bilateral symmetry, looking at world from wider perspective, being in nature, breathing consciously, watching the birds and other beings rejoice from life.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Feel free to contact me
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[miro@livingmirrors.net](mailto:miro@livingmirrors.net)

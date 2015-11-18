@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What are Living Mirrors?
+disqus-id: 1
 ---
 
 We all know mirrors very well from our daily life. Most of us own at least one at home, but even if some don't, there's plenty of them in the city as you are walking down your way through streets and glassy buildings. Even in nature you may come across calm water surface reflecting an image of your face back into your eyes.
